@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Lucky Number</string>
-    <string name="text_welcome">Welcome to Luck Number App</string>
+    <string name="text_welcome">Welcome to Lucky Number App</string>
     <string name="txt_show_number">Your lucky number is</string>
 </resources>
