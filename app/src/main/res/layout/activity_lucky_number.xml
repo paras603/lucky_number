@@ -12,7 +12,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
-        android:text="Your Lucky Number is"
+        android:text="@string/txt_show_number"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="40sp"
