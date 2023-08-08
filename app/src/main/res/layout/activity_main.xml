@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient1"
+    android:background="@drawable/my_gradiant_background"
     tools:context=".MainActivity">
 
     <TextView
@@ -35,7 +35,7 @@
         android:id="@+id/edtTxtName"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="124dp"
+        android:layout_marginTop="96dp"
         android:hint="Please, enter your name"
         android:textColor="@color/black"
         android:textColorHint="#AF373737"
@@ -49,7 +49,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="140dp"
-        android:layout_marginBottom="124dp"
+        android:layout_marginBottom="112dp"
         android:letterSpacing="0.05"
         android:text="draw"
         android:textAllCaps="true"
